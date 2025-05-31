@@ -6,14 +6,14 @@ namespace eCommerce.Infrastructure.Repositories
 {
     internal class UserRepository : IUsersRepository
     {
-        public async Task<ApplicationUser?> IUsersRepository.AddUser(ApplicationUser user)
+        async Task<ApplicationUser?> IUsersRepository.AddUser(ApplicationUser user)
         {
             // Generate a new unique user id FOR THE USER
             user.UserID = Guid.NewGuid();
             return user;
         }
 
-        public async Task<ApplicationUser?> IUsersRepository.GetUserByEmailAndPassword(string? email, string? password)
+        async Task<ApplicationUser?> IUsersRepository.GetUserByEmailAndPassword(string? email, string? password)
         {
             return new ApplicationUser()
             {
