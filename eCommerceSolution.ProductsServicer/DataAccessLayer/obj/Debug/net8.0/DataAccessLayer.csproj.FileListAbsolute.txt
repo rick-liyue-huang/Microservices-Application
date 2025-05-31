@@ -1,0 +1,13 @@
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Work\microservices\eCommerceSolution.ProductsServicer\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
