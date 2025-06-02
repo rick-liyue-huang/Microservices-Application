@@ -1,5 +1,6 @@
 using UserService.eCommerce.Infrastructure;
 using UserService.eCommerce.Core;
+using UserService.eCommerce.API.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,8 @@ builder.Services.AddControllers();
 //builder.Services.AddAuthorization(); // ?
 
 var app = builder.Build();
+
+app.UseExceptionHandlingMiddleware();
 
 app.UseRouting();
 
