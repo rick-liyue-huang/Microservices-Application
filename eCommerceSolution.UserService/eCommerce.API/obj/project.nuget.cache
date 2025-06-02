@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYGSEIWWHQU=",
+  "success": true,
+  "projectFilePath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.API\\eCommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rickhuang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\rickhuang\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
