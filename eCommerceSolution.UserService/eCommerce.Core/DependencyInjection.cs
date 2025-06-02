@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using UserService.eCommerce.Core.ServiceContract;
+using UserService.eCommerce.Core.Services;
 
 
 namespace UserService.eCommerce.Core
@@ -10,6 +12,9 @@ namespace UserService.eCommerce.Core
         {
             // todo : add services to the IoC container
             // Core services often include data access, caching and other low-level components
+
+            services.AddTransient<IUserService, UsersService>();
+
             return services;
         }
 

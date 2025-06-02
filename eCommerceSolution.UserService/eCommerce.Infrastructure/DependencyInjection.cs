@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using UserService.eCommerce.Core.RepositoryContract;
+using UserService.eCommerce.Infrastructure.Repositories;
 
 
 namespace UserService.eCommerce.Infrastructure
@@ -10,6 +12,9 @@ namespace UserService.eCommerce.Infrastructure
         {
             // todo : add services to the IoC container
             // Infrastructure services often include data access, caching and other low-level components
+
+            services.AddTransient<IUsersRepository, UsersRepository>();
+
             return services;
         }
 

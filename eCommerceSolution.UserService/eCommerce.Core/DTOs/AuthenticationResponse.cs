@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eCommerce.Core.DTOs
+namespace UserService.eCommerce.Core.DTOs
 {
     public record AuthenticationResponse(
         Guid UserID,
