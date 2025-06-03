@@ -8,7 +8,7 @@ using UserService.eCommerce.Core.DTOs;
 namespace UserService.eCommerce.Core.ServiceContract
 {
     // contracts for users services that contains 
-    public interface IUserService
+    public interface IUsersService
     {
         Task<AuthenticationResponse?> Login(LoginRequest loginRequest);
 

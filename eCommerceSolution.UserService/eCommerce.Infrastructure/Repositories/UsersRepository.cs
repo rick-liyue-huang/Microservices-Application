@@ -11,7 +11,7 @@ namespace UserService.eCommerce.Infrastructure.Repositories
 {
     public class UsersRepository : IUsersRepository
     {
-        public async Task<ApplicationUser?> IUsersRepository.AddUser(ApplicationUser user)
+        async Task<ApplicationUser?> IUsersRepository.AddUser(ApplicationUser user)
         {
             // Generate a new unique user ID for the user
             user.UserID = Guid.NewGuid();
@@ -19,7 +19,7 @@ namespace UserService.eCommerce.Infrastructure.Repositories
             return user;
         }
 
-        public async Task<ApplicationUser?> IUsersRepository.GetUserByEmailAndPassword(string? email, string? password)
+        async Task<ApplicationUser?> IUsersRepository.GetUserByEmailAndPassword(string? email, string? password)
         {
             return new ApplicationUser()
             {

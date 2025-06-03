@@ -23,3 +23,10 @@ C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.pdb
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.genruntimeconfig.cache
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\ref\eCommerce.API.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.csproj.AssemblyReference.cache
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Core.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Infrastructure.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Core.pdb
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Infrastructure.pdb
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerc.1EFE0F2B.Up2Date

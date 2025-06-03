@@ -11,7 +11,7 @@ using UserService.eCommerce.Core.ServiceContract;
 
 namespace UserService.eCommerce.Core.Services
 {
-    public class UsersService : IUserService
+    public class UsersService : IUsersService
     {
         private readonly IUsersRepository _usersRepository;
 
@@ -20,7 +20,7 @@ namespace UserService.eCommerce.Core.Services
             _usersRepository = usersRepository;
         }
 
-        async Task<AuthenticationResponse?> IUserService.Login(LoginRequest loginRequest)
+        async Task<AuthenticationResponse?> IUsersService.Login(LoginRequest loginRequest)
         {
             ApplicationUser? user = await _usersRepository.GetUserByEmailAndPassword(loginRequest.Email, loginRequest.Password);
 
@@ -28,10 +28,10 @@ namespace UserService.eCommerce.Core.Services
             {
                 return null;
             }
-            return new AuthenticationResponse(user.UserID, user.Email, user.PersonName, user.Gender, "token", Success:  true);
+            return new AuthenticationResponse(user.UserID, user.Email, user.PersonName, user.Gender, "token", Success: true);
         }
 
-        async Task<AuthenticationResponse?> IUserService.Register(RegisterRequest registerRequest)
+        async Task<AuthenticationResponse?> IUsersService.Register(RegisterRequest registerRequest)
         {
             // create a new application user object from register request.
             ApplicationUser user = new ApplicationUser()
@@ -44,7 +44,7 @@ namespace UserService.eCommerce.Core.Services
 
             ApplicationUser? registeredUser = await _usersRepository.AddUser(user);
 
-            if (user == null)
+            if (registeredUser == null)
             {
                 return null;
             }

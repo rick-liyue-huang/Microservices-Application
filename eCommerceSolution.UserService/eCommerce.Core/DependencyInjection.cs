@@ -13,7 +13,7 @@ namespace UserService.eCommerce.Core
             // todo : add services to the IoC container
             // Core services often include data access, caching and other low-level components
 
-            services.AddTransient<IUserService, UsersService>();
+            services.AddTransient<IUsersService, UsersService>();
 
             return services;
         }

@@ -1,0 +1,13 @@
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net9.0\eCommerce.Core.deps.json
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net9.0\eCommerce.Core.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net9.0\eCommerce.Core.pdb
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.csproj.AssemblyReference.cache
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.AssemblyInfoInputs.cache
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.AssemblyInfo.cs
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.sourcelink.json
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\refint\eCommerce.Core.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\eCommerce.Core.pdb
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net9.0\ref\eCommerce.Core.dll
