@@ -31,3 +31,7 @@ C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Infrastructure.pdb
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerc.1EFE0F2B.Up2Date
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Dapper.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Npgsql.dll

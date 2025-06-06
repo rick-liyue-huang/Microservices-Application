@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using UserService.eCommerce.Infrastructure.DbContext;
+using Microsoft.Extensions.DependencyInjection;
 using UserService.eCommerce.Core.RepositoryContract;
 using UserService.eCommerce.Infrastructure.Repositories;
 
@@ -14,6 +15,8 @@ namespace UserService.eCommerce.Infrastructure
             // Infrastructure services often include data access, caching and other low-level components
 
             services.AddTransient<IUsersRepository, UsersRepository>();
+
+            services.AddTransient<DapperDbContext>();
 
             return services;
         }
