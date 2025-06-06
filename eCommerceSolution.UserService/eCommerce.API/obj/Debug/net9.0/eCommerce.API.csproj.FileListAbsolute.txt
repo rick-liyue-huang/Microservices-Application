@@ -30,3 +30,4 @@ C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Core.pdb
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\eCommerce.Infrastructure.pdb
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerc.1EFE0F2B.Up2Date
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\AutoMapper.dll

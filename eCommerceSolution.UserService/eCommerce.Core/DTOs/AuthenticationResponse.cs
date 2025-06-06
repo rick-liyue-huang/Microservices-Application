@@ -13,5 +13,12 @@ namespace UserService.eCommerce.Core.DTOs
         string? Gender,
         string? Token,
         bool Success
-    );
+    )
+    {
+        // parameterless constructure for AutoMapper execution
+        public AuthenticationResponse() : this(default, default, default, default, default, default)
+        {
+
+        }
+    }
 }

@@ -9,7 +9,7 @@ using UserService.eCommerce.Core.RepositoryContract;
 
 namespace UserService.eCommerce.Infrastructure.Repositories
 {
-    public class UsersRepository : IUsersRepository
+    internal class UsersRepository : IUsersRepository
     {
         async Task<ApplicationUser?> IUsersRepository.AddUser(ApplicationUser user)
         {

@@ -2,6 +2,7 @@ using UserService.eCommerce.Infrastructure;
 using UserService.eCommerce.Core;
 using UserService.eCommerce.API.Middlewares;
 using System.Text.Json.Serialization;
+using UserService.eCommerce.Core.Mappers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +18,8 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 
 //builder.Services.AddAuthentication(); // ?
 //builder.Services.AddAuthorization(); // ?
+
+builder.Services.AddAutoMapper(typeof(ApplicationUserMappingProfile).Assembly);
 
 var app = builder.Build();
 
