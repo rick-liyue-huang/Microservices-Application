@@ -6,6 +6,6 @@ namespace UserService.eCommerce.Core.DTOs
         string? Email, 
         string? Password, 
         string? PersonName, 
-        GenderOptions Gender
+        GenderOptions? Gender
     );
 }

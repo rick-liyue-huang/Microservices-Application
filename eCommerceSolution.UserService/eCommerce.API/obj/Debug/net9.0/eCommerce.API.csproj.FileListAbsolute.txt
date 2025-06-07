@@ -35,3 +35,11 @@ C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Npgsql.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

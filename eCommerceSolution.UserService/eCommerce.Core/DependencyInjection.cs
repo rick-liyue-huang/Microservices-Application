@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using eCommerce.Core.Validators;
+using FluentValidation;
+using Microsoft.Extensions.DependencyInjection;
 using UserService.eCommerce.Core.ServiceContract;
 using UserService.eCommerce.Core.Services;
 
@@ -14,6 +16,7 @@ namespace UserService.eCommerce.Core
             // Core services often include data access, caching and other low-level components
 
             services.AddTransient<IUsersService, UsersService>();
+            services.AddValidatorsFromAssemblyContaining<LoginRequestValidator>();
 
             return services;
         }
