@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YzhwHusC8iw=",
+  "dgSpecHash": "4xtnpP5nD0w=",
   "success": true,
-  "projectFilePath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj",
+  "projectFilePath": "/Users/rickhuang668/Projects/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj",
   "expectedPackageFiles": [
     "/Users/rickhuang668/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/rickhuang668/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
