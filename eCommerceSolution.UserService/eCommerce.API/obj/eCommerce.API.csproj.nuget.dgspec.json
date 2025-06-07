@@ -1,42 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.API\\eCommerce.API.csproj": {}
+    "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.API/eCommerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.API\\eCommerce.API.csproj": {
+    "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.API/eCommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.API\\eCommerce.API.csproj",
+        "projectUniqueName": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.API/eCommerce.API.csproj",
         "projectName": "eCommerce.API",
-        "projectPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.API\\eCommerce.API.csproj",
-        "packagesPath": "C:\\Users\\rickhuang\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.API\\obj\\",
+        "projectPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.API/eCommerce.API.csproj",
+        "packagesPath": "/Users/rickhuang668/.nuget/packages/",
+        "outputPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.API/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rickhuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rickhuang668/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
-                "projectPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj"
+              "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj": {
+                "projectPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj"
               },
-              "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
+              "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Infrastructure/eCommerce.Infrastructure.csproj": {
+                "projectPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Infrastructure/eCommerce.Infrastructure.csproj"
               }
             }
           }
@@ -51,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -85,12 +79,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.300, 9.0.300]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,32 +87,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
+    "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectUniqueName": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj",
         "projectName": "eCommerce.Core",
-        "projectPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
-        "packagesPath": "C:\\Users\\rickhuang\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\obj\\",
+        "projectPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj",
+        "packagesPath": "/Users/rickhuang668/.nuget/packages/",
+        "outputPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rickhuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rickhuang668/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -143,7 +125,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -173,51 +155,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.300, 9.0.300]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+    "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Infrastructure/eCommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "projectUniqueName": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Infrastructure/eCommerce.Infrastructure.csproj",
         "projectName": "eCommerce.Infrastructure",
-        "projectPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\rickhuang\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Infrastructure\\obj\\",
+        "projectPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Infrastructure/eCommerce.Infrastructure.csproj",
+        "packagesPath": "/Users/rickhuang668/.nuget/packages/",
+        "outputPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rickhuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rickhuang668/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
-                "projectPath": "C:\\Work\\microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj"
+              "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj": {
+                "projectPath": "/Users/rickhuang668/Desktop/microservices/eCommerceSolution.UserService/eCommerce.Core/eCommerce.Core.csproj"
               }
             }
           }
@@ -232,7 +202,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -266,18 +236,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.300, 9.0.300]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

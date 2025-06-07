@@ -7,3 +7,5 @@ Enable logging, tracing and monitoring from the begining of service implementati
 
 Add resilience and fault tolerance to your services from the begining of service implementation.
 
+ok
+
